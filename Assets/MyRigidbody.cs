@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MyRigidbody : MonoBehaviour {
-
+    public var p = transform.position;
 	// Use this for initialization
     void Start () {
 	
